@@ -41,7 +41,7 @@
     "@opennextjs/cloudflare": "latest",
     "@playwright/test": "latest",
     "@tailwindcss/postcss": "^4.0.0",
-    "@types/node": "^22.0.0",
+    "@types/node": "^26.6.6",
     "@types/papaparse": "latest",
     "@types/qrcode": "latest",
     "@types/react": "^19.0.0",
